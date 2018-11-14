@@ -1,0 +1,35 @@
+{
+    "result":true,
+    "data":{
+        "item1":[
+            {
+                "img":"//i8.mifile.cn/v1/a1/64837c60-1ec4-c71a-f6d2-9026845713fd!720x360.webp"
+            },
+            {
+                "img":"//i8.mifile.cn/v1/a1/e6a3d01d-abf3-de4f-5a20-efa13d358fc9!720x360.webp"
+            },
+            {
+                "img":"//i8.mifile.cn/v1/a1/5faa4415-42f6-3f02-6554-7dce6ffa5302!720x360.webp"
+            }
+        ],
+        "item2":[
+            {
+                "img":"//i8.mifile.cn/v1/a1/2c154bba-bf35-acbe-919f-e448a51c624d!720x360.webp"
+            },
+            {
+                "img":"//i8.mifile.cn/v1/a1/ced08a75-d948-ba31-f5a9-933d1adb1ce2!720x360.webp"
+            }
+        ],
+        "item3":[
+            {
+                "img":"//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/9ca6ff57b03afab5b9c7dfe25864efff.jpg?thumb=1&w=720&h=360"
+            },
+            {
+                "img":"//i8.mifile.cn/v1/a1/48b19486-991c-6649-a7c6-40a8209a0f2d!720x360.webp"
+            },
+            {
+                "img":"//i8.mifile.cn/v1/a1/e347609d-7675-f819-9295-700d38b8ee8c!720x360.webp"
+            }
+        ]
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "result":true,
+    "data":[
+        {
+            "name":"小米手环3 NFC版",
+            "imgUrl":"//i8.mifile.cn/v1/a1/cef9d0ed-8657-a8ed-39a3-66956bcabe9e!360x360.webp",
+            "oldPrice":"3999",
+            "price":"1999",
+            "description":"能刷公交卡的手环"
+        },
+        {
+            "name":"米家IH电饭煲",
+            "imgUrl":"//i8.mifile.cn/v1/a1/070d67c4-aced-2088-8b64-de02220effbb!360x360.webp",
+            "oldPrice":"",
+            "price":"234",
+            "description":"多才多艺的智能电饭煲，多才多艺的智能电饭煲"
+        },
+        {
+            "name":"小米路由器4",
+            "imgUrl":"//i8.mifile.cn/v1/a1/070d67c4-aced-2088-8b64-de02220effbb!360x360.webp",
+            "oldPrice":"3999",
+            "price":"256",
+            "description":"双频双核 更快更稳定"
+        },
+        {
+            "name":"小米电视4A 49英寸",
+            "imgUrl":"//i8.mifile.cn/v1/a1/c46f28b5-636e-ffcc-c0cb-2347bd2c4890!360x360.webp",
+            "oldPrice":"3999",
+            "price":"158",
+            "description":"全高清，HDR，64位处理器"
+        },
+        {
+            "name":"小米电视4A 65英寸",
+            "imgUrl":"//i8.mifile.cn/v1/a1/b509d62f-a10a-6559-94f4-852b401815fb!360x360.webp",
+            "oldPrice":"",
+            "price":"3999",
+            "description":"4K超清大屏，64位处理器，4K超清大屏，64位处理器"
+        },
+        {
+            "name":"小米手环3 NFC版",
+            "imgUrl":"//i8.mifile.cn/v1/a1/cef9d0ed-8657-a8ed-39a3-66956bcabe9e!360x360.webp",
+            "oldPrice":"3999",
+            "price":"1999",
+            "description":"能刷公交卡的手环"
+        },
+        {
+            "name":"米家IH电饭煲",
+            "imgUrl":"//i8.mifile.cn/v1/a1/070d67c4-aced-2088-8b64-de02220effbb!360x360.webp",
+            "oldPrice":"3999",
+            "price":"234",
+            "description":"多才多艺的智能电饭煲"
+        },
+        {
+            "name":"小米路由器4",
+            "imgUrl":"//i8.mifile.cn/v1/a1/070d67c4-aced-2088-8b64-de02220effbb!360x360.webp",
+            "oldPrice":"3999",
+            "price":"256",
+            "description":"双频双核 更快更稳定"
+        },
+        {
+            "name":"小米电视4A 49英寸",
+            "imgUrl":"//i8.mifile.cn/v1/a1/c46f28b5-636e-ffcc-c0cb-2347bd2c4890!360x360.webp",
+            "oldPrice":"",
+            "price":"158",
+            "description":"全高清，HDR，64位处理器"
+        },
+        {
+            "name":"小米电视4A 65英寸",
+            "imgUrl":"//i8.mifile.cn/v1/a1/b509d62f-a10a-6559-94f4-852b401815fb!360x360.webp",
+            "oldPrice":"3999",
+            "price":"3999",
+            "description":"4K超清大屏，64位处理器"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "xiaomi_market_api",
+  "version": "1.0.0",
+  "description": "Api for xiaomi_market",
+  "main": "index.js",
+  "scripts": {
+    "dev": "supervisor index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cunyang",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.5.3",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0",
+    "koa-session": "^5.10.0",
+    "supervisor": "^0.12.0"
+  }
+}

@@ -1,0 +1,25 @@
+module.exports = {
+    user:[
+        {
+            username:"123",
+            password:"123",
+            name:"zhangsan"
+        },
+        {
+            username:"18311111112",
+            password:"yangge",
+            name:"李四"
+        },
+        {
+            username:"18311111113",
+            password:"yangge",
+            name:"王二妞"
+        },
+        {
+            username:"18311111114",
+            password:"yangge",
+            name:"王铁柱"
+        }
+    ],
+    result:true
+}

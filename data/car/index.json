@@ -1,0 +1,91 @@
+{
+    "result":true,
+    "data": {
+        "recommend_list": [{
+            "product_id": "8798",
+            "commodity_id": "8798",
+            "name": "小米8 青春版 6GB+64GB",
+            "image_url": "//i8.mifile.cn/v1/a1/437dd6a8-3c6e-92f7-8a80-4fd1ec71eed1.webp",
+            "action": {
+                "type": "product",
+                "path": "8798",
+                "log_code": "recom_product_12-0#eid=24:0:0:0:0:0:0:0:0:0\u0026tid=DetailRec-fIHdnZ2/44LAdqOzR2ABRw==\u0026page=product\u0026pid=8798",
+                "recommend_code": "recom_product_12-0#eid=24:0:0:0:0:0:0:0:0:0\u0026tid=DetailRec-fIHdnZ2/44LAdqOzR2ABRw==\u0026page=product\u0026pid=8798"
+            },
+            "big_image_url": "",
+            "price": "1699",
+            "market_price": "1699",
+            "product_desc": "潮流镜面渐变色，自拍旗舰",
+            "trace_id": "DetailRec-fIHdnZ2/44LAdqOzR2ABRw==",
+            "eid": "24:0:0:0:0:0:0:0:0:0"
+        }, {
+            "product_id": "8151",
+            "commodity_id": "8151",
+            "name": "小米8 SE 4GB+64GB",
+            "image_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/fb3fc5df8e762c4a96f0cdd59670070c.jpg",
+            "action": {
+                "type": "product",
+                "path": "8151",
+                "log_code": "recom_product_12-1#eid=24:0:0:0:0:0:0:0:0:0\u0026tid=DetailRec-fIHdnZ2/44LAdqOzR2ABRw==\u0026page=product\u0026pid=8151",
+                "recommend_code": "recom_product_12-1#eid=24:0:0:0:0:0:0:0:0:0\u0026tid=DetailRec-fIHdnZ2/44LAdqOzR2ABRw==\u0026page=product\u0026pid=8151"
+            },
+            "big_image_url": "",
+            "price": "1699",
+            "market_price": "1799",
+            "product_desc": "三星 AMOLED 全面屏 小屏旗舰",
+            "trace_id": "DetailRec-fIHdnZ2/44LAdqOzR2ABRw==",
+            "eid": "24:0:0:0:0:0:0:0:0:0"
+        }, {
+            "product_id": "8803",
+            "commodity_id": "8803",
+            "name": "小米8 屏幕指纹版 8GB内存",
+            "image_url": "//i8.mifile.cn/v1/a1/96816d85-712b-074c-e849-d66d6d5ec4a2.webp",
+            "action": {
+                "type": "product",
+                "path": "8803",
+                "log_code": "recom_product_12-2#eid=24:0:0:0:0:0:0:0:0:0\u0026tid=DetailRec-fIHdnZ2/44LAdqOzR2ABRw==\u0026page=product\u0026pid=8803",
+                "recommend_code": "recom_product_12-2#eid=24:0:0:0:0:0:0:0:0:0\u0026tid=DetailRec-fIHdnZ2/44LAdqOzR2ABRw==\u0026page=product\u0026pid=8803"
+            },
+            "big_image_url": "",
+            "price": "3599",
+            "market_price": "3599",
+            "product_desc": "压感屏幕指纹，潮流外观",
+            "trace_id": "DetailRec-fIHdnZ2/44LAdqOzR2ABRw==",
+            "eid": "24:0:0:0:0:0:0:0:0:0"
+        }, {
+            "product_id": "8146",
+            "commodity_id": "8146",
+            "name": "小米8 6GB+64GB",
+            "image_url": "//i8.mifile.cn/v1/a1/d597519c-5914-1658-5f2b-f5d2cbd915b8.webp",
+            "action": {
+                "type": "product",
+                "path": "8146",
+                "log_code": "recom_product_12-3#eid=24:0:0:0:0:0:0:0:0:0\u0026tid=DetailRec-fIHdnZ2/44LAdqOzR2ABRw==\u0026page=product\u0026pid=8146",
+                "recommend_code": "recom_product_12-3#eid=24:0:0:0:0:0:0:0:0:0\u0026tid=DetailRec-fIHdnZ2/44LAdqOzR2ABRw==\u0026page=product\u0026pid=8146"
+            },
+            "big_image_url": "",
+            "price": "2499",
+            "market_price": "2699",
+            "product_desc": "全球首款双频GPS，骁龙845",
+            "trace_id": "DetailRec-fIHdnZ2/44LAdqOzR2ABRw==",
+            "eid": "24:0:0:0:0:0:0:0:0:0"
+        }, {
+            "product_id": "5780",
+            "commodity_id": "5780",
+            "name": "小米Max 2",
+            "image_url": "//i8.mifile.cn/v1/a1/4db2d2d1-9200-5ad6-013b-997c8ab5253e.webp",
+            "action": {
+                "type": "product",
+                "path": "5780",
+                "log_code": "recom_product_12-4#eid=24:0:0:0:0:0:0:0:0:0\u0026tid=DetailRec-fIHdnZ2/44LAdqOzR2ABRw==\u0026page=product\u0026pid=5780",
+                "recommend_code": "recom_product_12-4#eid=24:0:0:0:0:0:0:0:0:0\u0026tid=DetailRec-fIHdnZ2/44LAdqOzR2ABRw==\u0026page=product\u0026pid=5780"
+            },
+            "big_image_url": "",
+            "price": "1699",
+            "market_price": "1699",
+            "product_desc": "6.44\"大屏，5300mAh大电量",
+            "trace_id": "DetailRec-fIHdnZ2/44LAdqOzR2ABRw==",
+            "eid": "24:0:0:0:0:0:0:0:0:0"
+        }]
+    }
+}
