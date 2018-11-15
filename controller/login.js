@@ -1,7 +1,5 @@
 const data = require('./../data/login/user.js');
 
- 
-
 /**
  * login
  */

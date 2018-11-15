@@ -2,15 +2,15 @@
 const getJson = require('./../server/api'); 
 
 exports.details = async ctx => {
-    const data = await getJson('./../data/details/index.json');
+    const data = await getJson('/data/details/index.json');
     ctx.body = data;
 }
 exports.phone = async ctx => {
-    const data = await getJson('./../data/details/phones.json');
+    const data = await getJson('/data/details/phones.json');
     ctx.body = data;
 } 
 exports.commends = async ctx => {
-    const data = await getJson('./../data/details/commends.json');
+    const data = await getJson('/data/details/commends.json');
     ctx.body = data;
 } 
 exports.comment = async ctx => {
@@ -19,14 +19,14 @@ exports.comment = async ctx => {
             result:false
         };
     }
-    const data = await getJson('./../data/details/comment.json');
+    const data = await getJson('/data/details/comment.json');
     ctx.body = data;
 }
 exports.commentDetail = async ctx => {
-    const data = await getJson('./../data/details/commentDetail.json');
+    const data = await getJson('/data/details/commentDetail.json');
     ctx.body = data;
 } 
 exports.paramsDetail = async ctx => {
-    const data = await getJson('./../data/details/params.json');
+    const data = await getJson('/data/details/params.json');
     ctx.body = data;
 } 

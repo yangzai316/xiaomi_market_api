@@ -3,7 +3,7 @@ exports.car = async ctx => {
     const _session = ctx.session.username;
     let data = null;
     if(_session){
-        data = await getJson('./../data/car/index.json'); 
+        data = await getJson('/data/car/index.json'); 
     }else{
         data = {
             result:false,
